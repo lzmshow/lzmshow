@@ -1,0 +1,14 @@
+{
+    "name": "lzmshow/lzmshow",
+    "description": "lzmshow demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lzmshow",
+            "email": "421102319@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
